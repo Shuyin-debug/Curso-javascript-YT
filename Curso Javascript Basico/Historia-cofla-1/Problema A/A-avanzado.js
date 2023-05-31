@@ -40,3 +40,5 @@ Si ninguna de las condiciones anteriores se cumple, se llega al último return q
 Finalmente, se llaman a la función definirCompra con diferentes nombres de personas ("Cofla", "Pedro" y "Roberto") utilizando console.log para imprimir los resultados en la consola. 
 
 */
+
+
