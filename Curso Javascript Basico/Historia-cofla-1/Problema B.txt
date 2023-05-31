@@ -1,0 +1,7 @@
+**/ - Si le alcanza uno , lo compra
+
+**/ - si le alcanza dos , compra dos
+
+**/ - si le alcanza tres y sobra , regala el vuelto
+
+**/ - debe mostrar que compro y el vuelto

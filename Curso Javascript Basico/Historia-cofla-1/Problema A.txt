@@ -1,5 +1,5 @@
-** - Ingresar el monto y mostrar el mas caro
+**/ - Ingresar el monto y mostrar el mas caro
 
-** - Si hay 2 o mas , mostrar ambos
+**/ - Si hay 2 o mas , mostrar ambos
 
-** - indicar el vuelto
+**/ - indicar el vuelto
