@@ -1,5 +1,3 @@
-¡Claro! Estoy aquí para ayudarte a crear un README para tu nuevo repositorio de GitHub. Aquí tienes un ejemplo de cómo podría verse:
-
 # Resolviendo problemas del curso de Javascript
 
 el curso que se va a seguir en este repositorio es este https://www.youtube.com/watch?v=z95mZVUcJ-E&t=10s&ab_channel=SoyDalto
