@@ -1,0 +1,5 @@
+**/ - si miente , le da una descarga
+
+**/ - si no miente , no hacer nada
+
+**/ - si el aparato no se decide , aclarar que la pregunta debe ser mas clara

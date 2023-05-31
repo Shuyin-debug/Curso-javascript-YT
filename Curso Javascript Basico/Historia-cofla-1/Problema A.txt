@@ -1,5 +1,23 @@
-**/ - Ingresar el monto y mostrar el mas caro
+A) 3 chicos de 23 años perfectamente normales entran a una heladeria a comprar un helado pero hay un problema: los precios no estan al lado de cada estante con su respectivo helado.
+Ellos quieren comprar el helado mas caro que puedan con la plata que tienen, así que como podemos ayudarlos ? 
 
-**/ - Si hay 2 o mas , mostrar ambos
+Roberto tiene $1.5 USD
+Pedro tiene $1.7 USD
+Cofla tiene $3 USD
 
-**/ - indicar el vuelto
+Los precios de helados son los siguientes:
+Palito de helado de agua: $0.6 USD
+
+Palito de helado de crema: $1 USD
+
+Bombón helado marca heladix: $1.6 USD
+Bombón helado marca heladovich: $ 1.7 USD
+Bombón helado marca helardo: $1.8 USD
+Potecito de helado con confites: $2.9 USD
+Pote de 1/4 KG -> $2.9 USD
+
+ CREAR SOLUCION
+
+- Pedirles que ingresen el monto que tienen y mostrarles el helado mas caro que pueden comprar
+- si hay 2 o mas con el mismo precio , mostrar ambos
+- Cofla quiere saber cuanto es el vuelto
