@@ -1,8 +1,8 @@
 ¡Claro! Estoy aquí para ayudarte a crear un README para tu nuevo repositorio de GitHub. Aquí tienes un ejemplo de cómo podría verse:
 
-# Nombre del Repositorio
+# Resolviendo problemas del curso de Javascript
 
-Breve descripción del repositorio y su propósito.
+el curso que se va a seguir en este repositorio es este https://www.youtube.com/watch?v=z95mZVUcJ-E&t=10s&ab_channel=SoyDalto
 
 ## Descripción
 
@@ -35,6 +35,7 @@ cd nombre-del-repositorio
 ¡Eres bienvenido(a) a contribuir a este repositorio! Si deseas agregar nuevos problemas o soluciones, sigue estos pasos:
 
 1. Haz un fork de este repositorio y clónalo en tu máquina local.
+
 2. Crea una nueva rama para tu contribución:
 
 ```
@@ -42,6 +43,7 @@ git checkout -b nombre-de-tu-rama
 ```
 
 3. Agrega tus problemas o soluciones y realiza los cambios necesarios.
+
 4. Haz commit de tus cambios:
 
 ```
@@ -58,6 +60,6 @@ git push origin nombre-de-tu-rama
 
 ## Contacto
 
-Si tienes alguna pregunta o sugerencia relacionada con este repositorio, puedes contactarme a través de [correo electrónico] o [redes sociales].
+Si tienes alguna pregunta o sugerencia relacionada con este repositorio, puedes contactarme a través de [shuyin.github@gmail.com] o [Discord : Shuyin#6115].
 
-¡Espero que este README te sea útil! Buena suerte con tu curso de JavaScript.
+¡Espero que este README te sea útil!
