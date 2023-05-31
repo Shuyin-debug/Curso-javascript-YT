@@ -23,7 +23,9 @@ console.log(definirCompra("Cofla"));
 console.log(definirCompra("Pedro"));
 console.log(definirCompra("Roberto"));
 
-/* 
+/*  
+
+ ? esta descripcion podrian usar en la pagina del problema A al explicar la respuesta avanzada
 
 "use strict"; es una directiva que activa el modo estricto de JavaScript. Esto impone reglas adicionales y evita el uso de malas prácticas. Es una buena práctica incluir esta directiva al comienzo de los archivos JavaScript.
 
