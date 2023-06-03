@@ -16,4 +16,6 @@ for (let i = 0; i < 5; i++) {
 
 // * Actualización: En la actualización, se modifica la variable de control después de cada iteración. Por lo general, se incrementa o decrementa el valor de la variable para avanzar hacia la condición de finalización. Esta parte se ejecuta después de cada iteración antes de que se evalúe la condición nuevamente.
 
+// ? Estas tres partes trabajan juntas para controlar el flujo del bucle for y permiten repetir un bloque de código un número específico de veces. Recuerda que puedes ajustar las partes del bucle según tus necesidades, como cambiar los valores iniciales, las condiciones y las actualizaciones.
+
 
