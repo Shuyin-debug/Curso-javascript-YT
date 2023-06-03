@@ -1,20 +1,4 @@
 
-let animales = ["gato" , "perro" , "dinosaurio"] ;
-
-for ( animal in animales ) {
-
-}
-
-for ( animal of animales ) {
-
-}
-
-
-
-
-
-
-
 
 // ! Explicacion del for in
 
