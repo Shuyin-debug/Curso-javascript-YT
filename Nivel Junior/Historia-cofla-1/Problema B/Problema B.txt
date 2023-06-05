@@ -1,7 +1,6 @@
-**/ - Si le alcanza uno , lo compra
+B) Un joven muy afortunado logró ganar el primer premio de la lotería... exacto, estamos hablando del pobre al que cofla le
+Jió una mano, este pobre decide hacer una fiesta para festejar que salió de la pobreza con
+este milllonario compró una máquina que deja pasar solamente a los mayores de edad, entre otras cosas...
 
-**/ - si le alcanza dos , compra dos
-
-**/ - si le alcanza tres y sobra , regala el vuelto
-
-**/ - debe mostrar que compro y el vuelto
+- Dejar pasar solo a los mayores de edad
+- La primer persona que entre despues de las 2 AM, no paga.
