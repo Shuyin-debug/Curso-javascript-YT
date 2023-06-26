@@ -1,0 +1,12 @@
+
+G) La falcultad de cofla está por comenzar y ya las 12 materias de la carrera tienen asignado un profesor y todos los alumnos que se anotaron en dichas clases, pero necesitamos ver esto mas ordenadamente
+
+*  CREAR SOLUCIONES :
+
+Crear una funcion que a1 pasarle cono parametro la materia nos devuelva: 
+--> profesor asignado , nombre de todos los alumnos
+
+
+--  Crear función que nos diga en cuantas clases está cofla.
+--  Nombrar las clases en las que está y los profesores de cada una.
+
